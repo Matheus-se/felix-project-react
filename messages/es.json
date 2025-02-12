@@ -1,0 +1,21 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "payment_method": "Método de Pago",
+    "date": "Fecha",
+    "status": "Estado",
+    "exchange_rate": "Tipo de Cambio",
+    "amount_received": "Cantidad Recibida",
+    "amount_sent": "Cantidad Enviada",
+    "receivers_whatsapp": "Whatsapp del Receptor",
+    "senders_whatsapp": "Whatsapp del Remitente",
+    "sender": "Remitente",
+    "receiver": "Receptor",
+    "transaction_id": "ID de Transacción",
+    "transaction_number": "Número de Transacción",
+    "senders_whatsapp_number": "Número de Whatsapp del Remitente",
+    "receivers_whatsapp_number": "Número de Whatsapp del Receptor",
+    "no_results": "Sin Resultados",
+    "search": "Buscar"
+}
